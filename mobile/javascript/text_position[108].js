@@ -1,1 +1,1 @@
-﻿positionForPages[108]={page:108,positions:[]};
+﻿positionForPages[108]={page:108,positions:[{word:"!",left:0.165789,top:0.705087,width:0.026677,height:0.003250},{word:"\"",left:0.713267,top:0.763752,width:0.023898,height:0.003251},{word:"#",left:0.396663,top:0.763752,width:0.011672,height:0.003251},{word:"$",left:0.229921,top:0.763752,width:0.026677,height:0.003251},{word:"%",left:0.867999,top:0.822251,width:0.011671,height:0.003250},{word:"\&",left:0.784868,top:0.822251,width:0.033346,height:0.003250},{word:"'",left:0.555183,top:0.822254,width:0.038348,height:0.003251}]};
